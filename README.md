@@ -1,2 +1,2 @@
 # cms_exception
-Prove that no certifing EMR patient health care access will suffer
+Objective is to provide statistical data and other evidence that effectively establishes the probability of adverse beneficiary health care access consequences if EMR (the provider) enrolled to participate in Medicare.
